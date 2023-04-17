@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\bin\Debug\net7.0\03DeflateStreamOthers.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\bin\Debug\net7.0\03DeflateStreamOthers.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\bin\Debug\net7.0\03DeflateStreamOthers.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\bin\Debug\net7.0\03DeflateStreamOthers.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\bin\Debug\net7.0\03DeflateStreamOthers.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\refint\03DeflateStreamOthers.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\03DeflateStreamOthers.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03DeflateStreamOthers\obj\Debug\net7.0\ref\03DeflateStreamOthers.dll

@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\bin\Debug\net7.0\00BinaryCorrectOrder.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\bin\Debug\net7.0\00BinaryCorrectOrder.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\bin\Debug\net7.0\00BinaryCorrectOrder.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\bin\Debug\net7.0\00BinaryCorrectOrder.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\bin\Debug\net7.0\00BinaryCorrectOrder.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\refint\00BinaryCorrectOrder.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\00BinaryCorrectOrder.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00BinaryCorrectOrder\obj\Debug\net7.0\ref\00BinaryCorrectOrder.dll

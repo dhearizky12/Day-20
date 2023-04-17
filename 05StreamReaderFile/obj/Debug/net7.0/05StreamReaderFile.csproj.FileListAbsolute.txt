@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\bin\Debug\net7.0\05StreamReaderFile.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\bin\Debug\net7.0\05StreamReaderFile.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\bin\Debug\net7.0\05StreamReaderFile.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\bin\Debug\net7.0\05StreamReaderFile.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\bin\Debug\net7.0\05StreamReaderFile.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\refint\05StreamReaderFile.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\05StreamReaderFile.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\05StreamReaderFile\obj\Debug\net7.0\ref\05StreamReaderFile.dll

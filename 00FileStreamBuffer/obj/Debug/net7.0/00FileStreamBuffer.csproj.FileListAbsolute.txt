@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\bin\Debug\net7.0\00FileStreamBuffer.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\bin\Debug\net7.0\00FileStreamBuffer.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\bin\Debug\net7.0\00FileStreamBuffer.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\bin\Debug\net7.0\00FileStreamBuffer.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\bin\Debug\net7.0\00FileStreamBuffer.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\refint\00FileStreamBuffer.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\00FileStreamBuffer.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00FileStreamBuffer\obj\Debug\net7.0\ref\00FileStreamBuffer.dll

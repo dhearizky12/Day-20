@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00StreamReader\\00StreamReader.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00StreamReader\\00StreamReader.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00StreamReader\\00StreamReader.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00StreamReader\\00StreamReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00StreamReader\\00StreamReader.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00StreamReader\\00StreamReader.csproj",
         "projectName": "00StreamReader",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00StreamReader\\00StreamReader.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00StreamReader\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00StreamReader\\00StreamReader.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00StreamReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

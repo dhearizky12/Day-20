@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\bin\Debug\net7.0\04GZPicutreother.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\bin\Debug\net7.0\04GZPicutreother.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\bin\Debug\net7.0\04GZPicutreother.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\bin\Debug\net7.0\04GZPicutreother.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\bin\Debug\net7.0\04GZPicutreother.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\refint\04GZPicutreother.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\04GZPicutreother.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\04GZPicutreother\obj\Debug\net7.0\ref\04GZPicutreother.dll

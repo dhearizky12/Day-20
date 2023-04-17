@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\00FileStreamBuffer\\00FileStreamBuffer.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileStreamBuffer\\00FileStreamBuffer.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\00FileStreamBuffer\\00FileStreamBuffer.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileStreamBuffer\\00FileStreamBuffer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00FileStreamBuffer\\00FileStreamBuffer.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileStreamBuffer\\00FileStreamBuffer.csproj",
         "projectName": "00FileStreamBuffer",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00FileStreamBuffer\\00FileStreamBuffer.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00FileStreamBuffer\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileStreamBuffer\\00FileStreamBuffer.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileStreamBuffer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

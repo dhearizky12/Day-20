@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00FileBuffering\\00FileBuffering.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileBuffering\\00FileBuffering.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00FileBuffering\\00FileBuffering.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileBuffering\\00FileBuffering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00FileBuffering\\00FileBuffering.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileBuffering\\00FileBuffering.csproj",
         "projectName": "00FileBuffering",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00FileBuffering\\00FileBuffering.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00FileBuffering\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileBuffering\\00FileBuffering.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00FileBuffering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

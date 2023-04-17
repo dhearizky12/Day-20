@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\bin\Debug\net7.0\03FixGzipPicture.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\bin\Debug\net7.0\03FixGzipPicture.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\bin\Debug\net7.0\03FixGzipPicture.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\bin\Debug\net7.0\03FixGzipPicture.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\bin\Debug\net7.0\03FixGzipPicture.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\refint\03FixGzipPicture.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\03FixGzipPicture.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\03FixGzipPicture\obj\Debug\net7.0\ref\03FixGzipPicture.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00Binary\\00Binary.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00Binary\\00Binary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00Binary\\00Binary.csproj",
         "projectName": "00Binary",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00Binary\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00Binary\\00Binary.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 20\\Day-20\\00Binary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

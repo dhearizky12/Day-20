@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\bin\Debug\net7.0\00Directory.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\bin\Debug\net7.0\00Directory.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\bin\Debug\net7.0\00Directory.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\bin\Debug\net7.0\00Directory.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\bin\Debug\net7.0\00Directory.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\refint\00Directory.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\00Directory.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\00Directory\obj\Debug\net7.0\ref\00Directory.dll

@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\bin\Debug\net7.0\01CobaGZipStream.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\bin\Debug\net7.0\01CobaGZipStream.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\bin\Debug\net7.0\01CobaGZipStream.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\bin\Debug\net7.0\01CobaGZipStream.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\bin\Debug\net7.0\01CobaGZipStream.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\refint\01CobaGZipStream.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\01CobaGZipStream.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 20\Day-20\01CobaGZipStream\obj\Debug\net7.0\ref\01CobaGZipStream.dll
